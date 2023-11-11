@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+}
+body
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.793), rgba(0, 0, 0, 0.716)), url("bb.jpg");
+    background-size: cover;
+    background-position: centre;
+}
+
+.mm{
+  align-items: center;
+}
+.god
+{
+  
+
+  margin-top: 10px;
+  justify-content: space-between;
+  display: inline-block;
+ 
+}
+.god img{
+   width:80px;
+   height:100px;
+   
+}
+.go
+{
+
+  margin-top:10px;
+  align-items: center;
+  justify-content: space-between;
+  display: inline-block;
+  
+}
+.go img{
+   width:120px;
+   height:120px;
+margin-left: 3px;
+
+margin-right: 3px;
+}
+
+.deep
+{
+
+  margin-top:10px;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+}
+.deep img{
+   width:130px;
+   height:130px;
+margin-left: 30px;
+align-items: center;
+  justify-content: center;
+}
+.main
+{margin-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    justify-content: center;
+    color:aliceblue;
+}
+.gr
+{ 
+    margin-top: 40px;
+   text-align: left;
+  
+  margin-left:50%;
+  color:rgb(217, 222, 226);
+}
